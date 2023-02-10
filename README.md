@@ -1,5 +1,5 @@
 # Clustering de Espécies de Ratos utilizando KMeans
-> Um grupo de cientistas precisam saber os efeitos da relação entre altura e peso em diferentes espécies de ratos. Para resolver seu problema de pesquisa, desenvolvem um modelo de ML (machine learning), utilizando o algoritmo de aprendizagem não supervisionada KMeans Clustering, que atribui cada datapoint a uma das três espécies pesquisadas.
+> Um grupo de cientistas precisam saber os efeitos da relação entre altura e peso em diferentes espécies de ratos. Para resolver seu problema de pesquisa, desenvolvem um modelo de ML (machine learning) utilizando o algoritmo de aprendizagem não supervisionada KMeans Clustering que atribui cada datapoint a uma das três espécies pesquisadas.
 
 1. Limpeza e plotagem dos dados
 2. Construção do modelo de ML utilizando `KMeans Clustering`
